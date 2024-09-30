@@ -6,7 +6,7 @@
   <hi> School of Digital Technology, Interactive Design </hi>
 </section>
 <section>
-<h4> < Aspiring Graphic Designer in the Future > </h4>
+<h4> <mark> Aspiring Graphic Designer in the Future </mark> </h4>
 <hi> My Hobbies are: </hi>
   <ol>
   <li>Drawing</li>
@@ -16,9 +16,16 @@
 </ol
 </section>
 
-<h7> Check my Instagram for my ArtWorks </h7>
+<h7> 📌 Check my Instagram for my ArtWorks 😊 </h7> 
 
-<p>	[Instagram](https://www.instagram.com/derartworks/?hl=en) </p>
+<p>	🎨[Instagram](https://www.instagram.com/derartworks/?hl=en) </p>
+
+<h5> You can Contact me through my email for question/s or concern/s </h5>
+<p> x.valeriano10@gmail.com </p>
+
+<footer>
+<mark> Hope you have a great and wonderful day! </mark>
+</footer>
 
 
 <!--
