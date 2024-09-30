@@ -21,7 +21,7 @@
 <p>	🎨[Instagram](https://www.instagram.com/derartworks/?hl=en) </p>
 
 <h5> You can Contact me through my email for question/s or concern/s </h5>
-<p> x.valeriano10@gmail.com </p>
+<p> > x.valeriano10@gmail.com </p>
 
 <footer>
 <mark> Hope you have a great and wonderful day! </mark>
